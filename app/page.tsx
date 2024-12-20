@@ -1,4 +1,3 @@
-import Image from "next/image";
 import About from "./about/page";
 import Services from "./services/page";
 import Patient from "./patient/page";

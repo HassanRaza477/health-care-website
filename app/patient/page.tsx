@@ -30,12 +30,42 @@ export default function Patient(){
 
   {/* <!-- Images Section --> */}
   <div className="info-images w-full max-w-4xl mx-auto mt-10 flex flex-wrap justify-around gap-6">
-    <img src="/images/med.avif" alt="Medical" className="w-[100px] md:w-[150px] h-auto object-contain" />
-    <img src="/images/life.avif" alt="Life" className="w-[100px] md:w-[150px] h-auto object-contain" />
-    <img src="/images/multi.avif" alt="Multi" className="w-[100px] md:w-[150px] h-auto object-contain" />
-    <img src="/images/plan.avif" alt="Plan" className="w-[100px] md:w-[150px] h-auto object-contain" />
-    <img src="/images/health.avif" alt="Health" className="w-[100px] md:w-[150px] h-auto object-contain" />
-  </div>
+  <Image
+    src="/images/med.avif"
+    alt="Medical"
+    width={150}
+    height={150}
+    className="w-[100px] md:w-[150px] h-auto object-contain"
+  />
+  <Image
+    src="/images/life.avif"
+    alt="Life"
+    width={150}
+    height={150}
+    className="w-[100px] md:w-[150px] h-auto object-contain"
+  />
+  <Image
+    src="/images/multi.avif"
+    alt="Multi"
+    width={150}
+    height={150}
+    className="w-[100px] md:w-[150px] h-auto object-contain"
+  />
+  <Image
+    src="/images/plan.avif"
+    alt="Plan"
+    width={150}
+    height={150}
+    className="w-[100px] md:w-[150px] h-auto object-contain"
+  />
+  <Image
+    src="/images/health.avif"
+    alt="Health"
+    width={150}
+    height={150}
+    className="w-[100px] md:w-[150px] h-auto object-contain"
+  />
+</div>
 
   {/* <!-- Button Section --> */}
   <button className="block mx-auto mt-10 bg-orange-600 text-white py-3 px-6 text-sm md:text-lg rounded-full transition duration-300 hover:bg-orange-700">
