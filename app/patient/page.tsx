@@ -22,7 +22,7 @@ export default function Patient(){
       Nearly all major insurance plans accepted
     </h3>
     <p className="text-sm md:text-base">
-      I'm a paragraph. Click here to add your own text and edit me. I'm a great place for
+      I am a paragraph Click here to add your own text and edit me I am a great place for
       <br />
       you to tell a story and let your users know a little more about you.
     </p>

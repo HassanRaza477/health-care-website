@@ -7,14 +7,14 @@ export default function About() {
             About Tom Dixon MD
           </h1>
           <p className="text-base md:text-lg mb-8">
-            I am a paragraph. Click here to add your own text and edit me. It is easy. Just click  or double-click me to add your own content and make changes to the font. Feel free to drag and drop me anywhere you like on your page. I am a great place for you to tell a story and let your users know a little more about you.
+            I am a paragraph. Click here to add your own text and edit me. It is easy. Just click  or double click me to add your own content and make changes to the font. Feel free to drag and drop me anywhere you like on your page. I am a great place for you to tell a story and let your users know a little more about you.
           </p>
           <h2 className="text-lg md:text-xl font-bold text-blue-700 mb-4">
             Education
           </h2>
           <p className="text-base md:text-lg mb-8">
-            Medical School - University of Dulton Health Science Center.<br />
-            Residency in Family Medicine - University of Dulton Health Science Center.
+            Medical School   University of Dulton Health Science Center.<br />
+            Residency in Family Medicine   University of Dulton Health Science Center.
           </p>
           <a
             href="#"
